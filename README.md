@@ -6,5 +6,3 @@ In this project, I will cover
   3) communication patterns among threads/processors
   4) Random number generation
   5) True Random number generation
-
-
